@@ -1,3 +1,7 @@
+#name: Navodit Gupta
+#sid : 21107082
+#branch: Mechanical
+
 class Node:
     def __init__(self,name,age):
         self.name = name
