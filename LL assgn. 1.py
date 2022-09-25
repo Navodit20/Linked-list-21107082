@@ -1,3 +1,7 @@
+#Name: Navodit Gupta
+#SID: 21107082
+#Branch: Mechanical
+
 class Node:
 
     # Constructor to create a new node
