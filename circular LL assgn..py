@@ -1,3 +1,6 @@
+#Name : Navodit Gupta
+#SID : 21107082
+#Branch : Mechanical
 class Node:
       
     # Constructor to create  a new node
@@ -60,5 +63,6 @@ Q2. Practical applications of circular linked list.
 A. practical applications of circular linked list-
 -> Music/Video streaming: when a playlist is completed, it can go back to the start.
 -> Multitasking: Change between apps
--> 
+-> The browser cache which allows you to hit the BACK button
+-> Undo functionality in Photoshop or Word
 """
